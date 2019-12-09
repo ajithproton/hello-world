@@ -1,8 +1,28 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
-<h1>  ANJALI.K - YOUR HARD WORK PAID!!!!!! </h1>
-<h1>  ANJALI.K - YOUR HARD WORK PAID!!!!!! </h1>
-<h1>  ANJALI.K - YOUR HARD WORK PAID!!!!!! </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
+<h1>  Now we have complete automated CI/CD pipeline, we can deploy on VM, Docker & Kubernetes cluster   </h1>
 <h2> Deploying on a kubernetes using ansible for InfraStack-Labs Technologies </h2>
 <h2> JENKINS, ANSIBLE, DOCKER, CONTAINERS, KUBERNETES </h2>
 <h2> 1. App deployed on a VM with tomcat server </h2>
