@@ -4,7 +4,7 @@ USE hubbleconnected;
 
 CREATE TABLE tbl_Employee (
   id int AUTO_INCREMENT NOT NULL,
-  full_name VARCHAR(150) NOT NULL,
+  first_name VARCHAR(150) NOT NULL,
   gender VARCHAR(6),
   date_of_birth DATE,
   physical_address VARCHAR(255),
