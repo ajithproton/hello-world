@@ -1,7 +1,1 @@
-url=https://temptemp3.github.io
-# just some url
- 
-curl ${url} -I -o headers -s
-# download file
- 
-cat  header
+curl https://www.google.com
