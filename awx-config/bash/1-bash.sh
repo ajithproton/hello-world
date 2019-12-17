@@ -1,5 +1,3 @@
-#!/bin/bash 
-
 url=https://temptemp3.github.io
 # just some url
  
